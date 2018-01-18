@@ -15,4 +15,4 @@ Let us begin!
 - Simple Linear Regression
 - Multiple Linear Regression
 -- Stepwise Regression
-- Polynomial Linear Regression
+-- Polynomial Linear Regression
