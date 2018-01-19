@@ -14,5 +14,6 @@ Let us begin!
 ## Types
 - Simple Linear Regression
 - Multiple Linear Regression
--- Stepwise Regression
--- Polynomial Linear Regression
+ * Stepwise Regression
+ * Polynomial Linear Regression
+- Support Vector Regression
